@@ -296,8 +296,11 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Assets\Scripts\BulletSpawnBehaviour.cs" />
+    <Compile Include="Assets\Scripts\NewBehaviourScript.cs" />
     <Compile Include="Assets\Scripts\Sequencer.cs" />
     <Compile Include="Assets\Scripts\SequencerBehaviour.cs" />
+    <Compile Include="Assets\Scripts\SequencerMono.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="C:\Users\s178065\AppData\Local\Unity\cache\packages\packages.unity.com\com.unity.package-manager-ui@1.8.8\Editor\Resources\Styles\Main_Dark.uss" />
